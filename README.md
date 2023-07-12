@@ -1,4 +1,4 @@
-## About Me
+# About Me
 I am a mechanical engineering student at Texas A&M University, class of 2027
 
 I mainly like to work with python and pandas modules, and will be learning SQL soon.
