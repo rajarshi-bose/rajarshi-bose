@@ -1,5 +1,7 @@
-### Hi there 👋
+##About Me
+I am a mechanical engineering student at Texas A&M University, class of 2027
 
+I mainly like to work with python and pandas modules, and will be learning SQL soon.
 <!--
 **rajarshi-bose/rajarshi-bose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
